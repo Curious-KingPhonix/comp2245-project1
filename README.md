@@ -1,2 +1,2 @@
 # COMP2245 Project 1
-This is Project 1 for Deondre Mayers
+This is Project 1 for Kyle King
